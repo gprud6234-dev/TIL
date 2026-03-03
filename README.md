@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-03-JavaScript-노드-에러-해결](n8n/2026-03-03-JavaScript-노드-에러-해결.md)
+
 - [2026-03-03-바이너리-문자열-변환-노드-에러-해결](n8n/2026-03-03-바이너리-문자열-변환-노드-에러-해결.md)
 
 - [2026-03-03-Discord-메시지-링크-활성화-문제-해결](n8n/2026-03-03-Discord-메시지-링크-활성화-문제-해결.md)
