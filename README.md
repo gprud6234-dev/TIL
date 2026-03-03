@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-03-n8n-ngrok-워크플로우-공유](n8n/2026-03-03-n8n-ngrok-워크플로우-공유.md)
+
 - [2026-03-03-Discord-알림-하이퍼링크-지속-오류-해결](n8n/2026-03-03-Discord-알림-하이퍼링크-지속-오류-해결.md)
 
 - [2026-03-03-Discord-메시지-링크-비활성화-문제-해결](n8n/2026-03-03-Discord-메시지-링크-비활성화-문제-해결.md)
